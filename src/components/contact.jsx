@@ -1,7 +1,7 @@
 import whatsapp1 from "../assets/images/whatsapp1.png";
 import whatsapp2 from "../assets/images/whatsapp2.png";
 import whatsapp3 from "../assets/images/whatsapp3.png";
-import gmail from "../assets/images/gmail.svg";
+import gmail from "../assets/images/gmail.png";
 import next from "../assets/images/icon-next.png";
 import prev from "../assets/images/icon-previous.png";
 

@@ -1,6 +1,7 @@
 import { useState } from "react";
-import gmail from "../assets/images/gmail.svg";
-import whatsapp from "../assets/images/whatsapp.svg";
+import gmail from "../assets/images/gmail.png";
+// import Gmail from "../assets/images/gmail.png";
+import whatsapp from "../assets/images/whatsapp.png";
 import whatsapp1 from "../assets/images/whatsapp1.png";
 import whatsapp2 from "../assets/images/whatsapp2.png";
 import whatsapp3 from "../assets/images/whatsapp3.png";
@@ -37,7 +38,7 @@ const Footer = () => {
                             )}   
                             <img src={whatsapp} alt="whatsappLogo"/>
                         </span>
-                        <a href="/" target="_blank"><img src={gmail} alt="gmailLogo" /></a>
+                        <a href="mailto:info@mubarakdieselbusinessventures@gmail.com?subject=Hello!" target="_blank"><img src={gmail} alt="gmailLogo" /></a>
                     </article>
                 </div>   
                 <article id="nav">
@@ -50,7 +51,7 @@ const Footer = () => {
                             </ul>
                         </nav>
                 </article>
-                <p id="last-p">Website Designed and Developed By <a href="/mousecodes.com.ng" target="_blank">MouseCodes</a></p>
+                <p id="last-p">Website Designed and Developed By <a href="/tejucodes.com.ng" target="_blank">TejuCodes</a></p>
             </div>
         </footer>
      )
