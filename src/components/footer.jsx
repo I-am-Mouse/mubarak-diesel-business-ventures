@@ -51,7 +51,7 @@ const Footer = () => {
                             </ul>
                         </nav>
                 </article>
-                <p id="last-p">Website Designed and Developed By <a href="/tejucodes.com.ng" target="_blank">TejuCodes</a></p>
+                <p id="last-p">Website Designed and Developed By <a href="/tejucodes.site" target="_blank">TejuCodes</a></p>
             </div>
         </footer>
      )
